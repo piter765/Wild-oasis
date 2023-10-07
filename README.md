@@ -6,7 +6,7 @@ Application for hotel industry.
 
 Application only for logged in users whose account was created by administrator.
 
-## visit the site here: wild-oasis-piotr-tymula.netlify.app/
+## [click link to visit the site](wild-oasis-piotr-tymula.netlify.app/)
 ## to login: username: test@gmail.com password: test1234
 
 - In the app you can create cabins which can be booked by customers. 
